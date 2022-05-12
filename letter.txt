@@ -1,5 +1,6 @@
+DOCTYPE html
 <html>
 <body>
- <h1> LO Q SEA
+<h1> LO Q SEA
 </html>
 </body>
